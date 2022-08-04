@@ -496,7 +496,7 @@ h1 {
 }
 .containerP {
   position: relative;
-  top: -30px; // Hide the horizontal scrollbar.
+  top: -30px; /* Hide the horizontal scrollbar.*/
   left: 0;
   width: 100vh;
   height: calc(100vw);
@@ -524,7 +524,7 @@ h1 {
 
   text-align: center;
   
-  p {
+}
+.p {
     line-height: 1.5;
   }
-}
